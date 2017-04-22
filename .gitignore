@@ -1,0 +1,6 @@
+#Custom ignores
+*.pyc
+*.floo
+*.flooignore
+.idea
+.idea/
